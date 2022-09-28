@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render multiple items 1`] = `3`;
+
+exports[`task should have complete class when clicked 1`] = `
+<div
+  class="todo-item todo-item-active"
+>
+  Go Grocery Shopping
+</div>
+`;
